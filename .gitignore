@@ -1,0 +1,28 @@
+# Environment - never commit your API key
+.env
+
+# Database - user data stays local
+data/compliance.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FAISS index will be rebuilt on deploy
+data/faiss_index/
