@@ -1,0 +1,11 @@
+General Compliance Policy
+
+All customer-facing and internal financial communications must be accurate, balanced, and auditable.
+Statements about financial products must not mislead customers about risk, eligibility, cost, returns, or limitations.
+Required disclosures should appear close to the claim they qualify.
+
+Content must avoid guarantees unless the guarantee is contractually documented and legally approved.
+Risk warnings are required when discussing investments, lending, credit, insurance, or market-linked products.
+Customer data, KYC information, and financial records must be handled according to privacy and consent requirements.
+
+Reviewers should flag missing disclosures, unclear eligibility conditions, exaggerated claims, and statements that may create unsuitable advice.

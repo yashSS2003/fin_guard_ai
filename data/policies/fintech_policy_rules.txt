@@ -1,0 +1,14 @@
+Fintech Policy Rules
+
+Digital lending content must disclose annualized cost, fees, repayment terms, late payment implications, and eligibility conditions.
+Investment and wealth content must state that market-linked products involve risk and past performance does not guarantee future results.
+Credit scoring and approval messages must not imply guaranteed approval before verification is complete.
+
+Restricted phrases include: guaranteed profit, risk-free investment, sure returns, instant approval for everyone, no hidden charges without conditions, and double your money.
+Personalized financial advice should only be given after suitability, risk profile, and regulatory requirements are satisfied.
+
+Customer consent must be obtained before collecting, storing, or using sensitive financial or identity information.
+
+KYC and data collection communications must clearly state what data is collected, how it is used, whether it is shared with third parties, and must obtain explicit consent before sharing with partners.
+Credit card and loan advertisements must disclose all applicable fees, the conditions under which any fee waiver applies, and must not state zero-fee claims without specifying valid duration or conditions.
+Testimonials and performance data in marketing materials must include a disclaimer that past performance or individual results do not guarantee similar outcomes for other customers.
